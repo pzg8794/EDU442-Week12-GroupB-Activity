@@ -41,31 +41,19 @@ Welcome, Group B! Below is the full activity plan for our discussion protocol. T
 Hexagonal Thinking is a visual strategy where key concepts are placed on hexagon-shaped cards. Groups arrange and connect the hexagons — explaining *why* two ideas are related wherever they touch.
 
 **How to run it:**
-1. Each group gets **8 hexagon cards** — one concept per card (see [`hexagon-cards/concepts.md`](hexagon-cards/concepts.md)).
-2. Arrange them so connected concepts are touching.
-3. Every connection must be **verbally justified**: *"These two connect because..."*
-4. After 10 minutes, take a photo of your arrangement.
+1. Each group gets **8 hexagon cards**.
+2. Arrange them so connected concepts are near each other.
+3. Draw the connection lines yourselves.
+4. Every connection must be **verbally justified**: *"These two connect because..."*
+5. After 10 minutes, take a photo of your arrangement.
 
-**The 8 Concepts (all drawn from this week's readings):**
-
-| # | Concept | Reading |
-|---|---------|--------|
-| 1 | DisCrit | Annamma et al. (2013) |
-| 2 | Inclusion (as management) | Annamma et al. (2013) |
-| 3 | Tragedy Model of Disability | Flynn (2024) |
-| 4 | Affirmative Non-Tragedy Model | Flynn (2024) |
-| 5 | Media Representation | Talusan (2022) |
-| 6 | Teacher Identity & Positionality | Annamma et al. (2013) |
-| 7 | Care vs. Competence | Flynn (2024) |
-| 8 | Student Independence | Talusan (2022) |
-
-> 💡 **Facilitator tip:** There is no single correct arrangement — the debate *is* the activity.
+See the student-ready layout file: [`HEXAGON_CONNECTION_MAPS.md`](HEXAGON_CONNECTION_MAPS.md)
 
 ---
 
 ## 🗣️ Pair & Share: Discussant Questions (12 min)
 
-See the full question list → [`discussant-questions/week12-questions.md`](discussant-questions/week12-questions.md)
+See the full question list in [`WEEK12_ACTIVITY_PLAN.md`](WEEK12_ACTIVITY_PLAN.md)
 
 **Instructions:**
 1. Everyone reads all 7 questions (2 min).
@@ -89,12 +77,11 @@ Complete this sentence: *"After today's reading and discussion, I'm now thinking
 
 ## 📋 Materials Checklist
 
-- [ ] Printed hexagon cards — 8 per group (or digital via FigJam/Jamboard)
-- [ ] Printed quote cards — 6 per group
+- [ ] Printed or hand-drawn hexagon layouts
 - [ ] Discussant questions printed or on a shared screen
 - [ ] Markers + whiteboard or chart paper
 - [ ] Timer visible to the class
-- [ ] Phone/camera to capture hexagon arrangements
+- [ ] Phone/camera to capture arrangements
 
 ---
 

@@ -23,8 +23,7 @@ This plan includes:
 - the warm-up prompt,
 - the discussant questions,
 - the hexagonal thinking activity,
-- a full list of proposed hexagon cards,
-- and source/author/page or location information when available.
+- and a full list of proposed quote/concept connections.
 
 ---
 
@@ -35,57 +34,18 @@ This plan includes:
 3. **Hexagonal thinking in small groups**
 4. **Whole-class debrief / synthesis**
 
-### Why this structure works
-This flow allows us to:
-- personalize the topic before theory,
-- get everyone talking early,
-- let students choose 1–2 discussant questions to think with,
-- organize ideas visually rather than only verbally,
-- and connect the week’s readings to educational practice.
-
 ---
 
-## 3. Week 12 reading frame
-The main week 12 readings are:
-
-1. **Annamma, Connor, & Ferri (2013)** — DisCrit
-   - race and disability are intertwined
-   - schools label, sort, and punish students through racialized disability logics
-
-2. **Flynn (2024)** — affirmative non-tragedy model
-   - disability should not be framed through pity, deficit, or tragedy
-   - adults must rethink care, competence, risk, and protection
-
-3. **Talusan (2022), Chapter 7** — disability
-   - educators should avoid ableist assumptions
-   - school routines and everyday decisions shape inclusion/exclusion
-
-### Central themes to keep visible in the activity
-- race and disability are co-constructed
-- inclusion can become management
-- disability is not tragedy
-- care should not become pity
-- media shapes disability understanding
-- support and independence are not opposites
-- teachers should avoid ableist assumptions
-
----
-
-## 4. Warm-up
+## 3. Warm-up
 ### Warm-up prompt
 > **Think of a time you saw disability portrayed — in a movie, TV show, social media, or school. Was it framed as a tragedy, a superpower, an ordinary part of life, or something else? What message did that send?**
-
-### Why this warm-up works
-- It creates a low-risk personal entry point.
-- It connects directly to Alyssa’s media question and to Talusan/Flynn.
-- It helps the class surface assumptions before moving into theory.
 
 ### Suggested timing
 - **5–7 minutes total**
 
 ---
 
-## 5. Think-pair-share
+## 4. Think-pair-share
 ### Student instructions
 - Read the discussant questions on the screen.
 - Choose **one or two questions** that interest you most.
@@ -98,7 +58,7 @@ The main week 12 readings are:
 
 ---
 
-## 6. Full discussant questions (to present on slides)
+## 5. Full discussant questions (to present on slides)
 
 ### Piter
 **Annamma, Connor, & Ferri (2013)** argue DisCrit is about how race and disability are co-constructed through schooling (labeling, discipline, segregation). **Where do you see “inclusion” practices actually constructing students as problems to be managed (especially for students of color with IEPs/504s), and what would a DisCrit-informed intervention look like?**
@@ -123,177 +83,42 @@ In **Annamma et al. (2013)**, they *“encourage society to become more encompas
 
 ---
 
-## 7. Main activity: Hexagonal thinking
-## Core idea
-Each small group receives a **full set of different hexagon cards**.
-
-Each hexagon contains:
-- a short quote,
-- a concept phrase,
-- or a reading-grounded claim.
-
-The goal is to arrange the hexagons so that touching sides represent meaningful relationships.
-
-### Important note
-The hexagons should **not repeat the discussant questions directly**.
-They should instead be reading-grounded prompts that **connect to** the discussant questions and help students expand their thinking.
+## 6. Main activity: Hexagonal thinking
+### Core idea
+Each small group receives a set of quote/concept layouts. The **quotes/concepts and surrounding nodes are already placed**, and students draw the **connection lines** themselves and explain why they made those links.
 
 ### What students do
-1. Spread the hexagons out.
-2. Arrange them based on relationships they see.
-3. Be ready to explain each major connection.
-4. Mark:
-   - **one strong connection**
-   - **one tension / debated connection**
-5. Share one key insight during debrief.
+1. Look at the center quote/concept and surrounding nodes.
+2. Decide which ideas connect.
+3. Draw the connection lines.
+4. Be ready to explain:
+   - one strong connection
+   - one debatable connection
+   - one implication for teachers or schools
 
 ### Suggested timing
 - **10–15 minutes**
 
 ---
 
-## 8. Hexagon set — one different hexagon for each quote/concept
-Below is the proposed set. Each group should receive **one full set** of these different hexagons.
-
-| # | Hexagon text | Author / source | Page / location | Connects most directly to |
-|---|---|---|---|---|
-| 1 | **Race and disability are co-constructed** | Annamma, Connor, & Ferri (2013) | article-level core claim / exact page not specified in discussant draft | Piter |
-| 2 | **Inclusion can still manage difference** | Annamma, Connor, & Ferri (2013) | reading-grounded concept based on labeling, discipline, segregation | Piter |
-| 3 | **Labeling** | Annamma, Connor, & Ferri (2013) | article theme / no exact page specified | Piter |
-| 4 | **Discipline** | Annamma, Connor, & Ferri (2013) | article theme / no exact page specified | Piter |
-| 5 | **Segregation** | Annamma, Connor, & Ferri (2013) | article theme / no exact page specified | Piter + Aaron |
-| 6 | **General education is also responsible** | Annamma, Connor, & Ferri (2013) | reading-grounded concept tied to Aaron’s question | Aaron |
-| 7 | **“That’s for the special education audience.”** | Annamma, Connor, & Ferri (2013) | quoted in Aaron’s discussant question / exact page not supplied there | Aaron |
-| 8 | **Well-rounded teacher** | Aaron’s framing of Annamma et al. (2013) | discussant interpretation / no page | Aaron |
-| 9 | **Disability is not tragedy** | Flynn (2024) | article-level core claim / exact page not specified in discussant draft | Misong + Olivia |
-| 10 | **Care without pity** | Flynn (2024) | reading-grounded concept based on affirmative non-tragedy model | Misong + Olivia |
-| 11 | **Competence** | Flynn (2024) | key analytic term from Misong’s question / no exact page provided | Misong |
-| 12 | **Risk** | Flynn (2024) | key analytic term from Misong’s question / no exact page provided | Misong |
-| 13 | **Protection without pity** | Flynn (2024) | reading-grounded concept from Misong’s question | Misong |
-| 14 | **Representation shapes understanding** | Talusan (2022), Ch. 7 | reading-grounded concept tied to Alyssa’s media question | Alyssa |
-| 15 | **Television teaches disability** | Talusan (2022), Ch. 7 | concept drawn from Alyssa’s discussant framing / page not specified | Alyssa |
-| 16 | **“Become more encompassing of diversity and perceived difference.”** | Annamma, Connor, & Ferri (2013) | **p. 18** | Alyssa |
-| 17 | **Teach difference without reproducing stereotype** | Annamma, Connor, & Ferri (2013) + Alyssa’s framing | reading-grounded concept | Alyssa |
-| 18 | **Support is not over-helping** | Talusan (2022), Ch. 7 | reading-grounded concept tied to Olivia’s question | Olivia |
-| 19 | **Support and independence are not opposites** | Talusan (2022), Ch. 7 | reading-grounded concept tied to Olivia’s question | Olivia |
-| 20 | **“That fine line … not treating Naomi special … but also having awareness of the real challenges she faces.”** | Talusan (2022) | **p. 87** | Olivia |
-| 21 | **Ableist assumptions** | Talusan (2022), Ch. 7 | chapter-level core theme / exact page not specified here | Alyssa + Olivia |
-| 22 | **Challenge tragedy framing** | Olivia’s discussant question grounded in Flynn/Talusan | discussion-facing concept / no exact page | Olivia |
-
-### Recommendation
-For manageability, use **12–16 cards** in class instead of all 22 if time is short.
-
-### Best short set (recommended)
-If you want a tighter set, use these 14:
-1. Race and disability are co-constructed
-2. Inclusion can still manage difference
-3. Labeling
-4. Discipline
-5. General education is also responsible
-6. “That’s for the special education audience.”
-7. Disability is not tragedy
-8. Care without pity
-9. Competence
-10. Representation shapes understanding
-11. “Become more encompassing of diversity and perceived difference.” (p. 18)
-12. Support is not over-helping
-13. “That fine line …” (p. 87)
-14. Ableist assumptions
-
----
-
-## 9. Example of what a layout might look like
-```text
-         [ Representation shapes understanding ]
-                        |
- [ Care without pity ] — [ Disability is not tragedy ] — [ Ableist assumptions ]
-                        |                         |
-                  [ Support ]               [ Inclusion can still manage difference ]
-                        |                         |
-                  [ Independence ]     [ Race and disability are co-constructed ]
-```
-
-### Important note
-This is **just an example**.
-Groups do not need to create the same arrangement.
-The value is in the reasoning and justification.
-
----
-
-## 10. Debrief plan
-### Ask each group to share:
-1. **One strong connection** they made
-2. **One tension / hard connection** they debated
-3. **One implication for teachers, schools, or systems**
-
-### Whole-class synthesis prompts
-- Which ideas ended up near the center for most groups?
-- Where did groups disagree?
-- What does this suggest about how schools understand disability?
-- What should educators unlearn from this week’s readings?
-
-### Strong closing question
-> **What is one thing these readings ask educators to unlearn?**
-
----
-
-## 11. Materials needed
+## 7. Materials needed
 - Slide deck with:
   - title / agenda
   - warm-up prompt
   - discussant questions
   - hexagonal thinking directions
   - debrief prompt
-- Printed hexagon sets (1 full set per group)
-- Scissors if not pre-cut
-- Optional: tape, markers, or sticky tack
+- Printed or hand-drawn connection maps
+- Markers / board space
 
 ---
 
-## 12. Suggested slide build plan
-### Slide 1 — Title
-- EDU 442 Week 12 Group B
-- Inclusion and constructing others
-
-### Slide 2 — Today’s flow
-- Warm-up
-- Think-pair-share
-- Hexagonal thinking
-- Debrief
-
-### Slide 3 — Warm-up prompt
-- disability portrayal in media / school
-
-### Slide 4 — Discussant questions
-- present the full list
-- instruct students to choose 1–2
-
-### Slide 5 — Hexagonal thinking instructions
-- one different hexagon per quote/concept
-- arrange by relationships
-- identify one strong connection and one tension
-
-### Slide 6 — Example layout
-- simple sample arrangement
-
-### Slide 7 — Debrief
-- one strong connection
-- one tension
-- one implication for practice
-
-### Slide 8 — Closing question
-- What is one thing educators need to unlearn?
-
----
-
-## 13. Facilitation note
-Because this week is about disability, the activity should model accessibility:
-- groups can remain seated
-- one person can move the pieces while others direct
-- students can participate verbally rather than writing
-- no prompt should require personal disclosure
-
----
-
-## 14. Short summary for the group
-> We will start with a short warm-up about disability portrayal, then move into a think-pair-share where classmates choose 1–2 discussant questions. After that, we will use hexagonal thinking in small groups. Each group will receive one full set of different hexagons, each tied to a quote, concept, or reading-based claim that connects to our discussant questions. Groups will arrange the hexagons, explain one strong connection and one tension, and then we will debrief as a class.
+## 8. Suggested slide build plan
+1. Title slide
+2. Today’s flow
+3. Warm-up prompt
+4. Discussant questions
+5. Hexagonal thinking directions
+6. Example of one completed map
+7. Debrief slide
+8. Closing question: **What is one thing educators need to unlearn?**

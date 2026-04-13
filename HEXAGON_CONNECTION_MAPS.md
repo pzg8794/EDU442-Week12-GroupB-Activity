@@ -1,122 +1,125 @@
 # Week 12 Hexagon Connection Maps
 
-This file contains the **full text-map sketches** for the Week 12 activity.
+This is the **student-ready version**.
 
-Use each one as a board template:
+Use each map as a board template:
 - write the **center quote/phrase** in the middle
 - place the surrounding connected ideas around it
+- **do not draw the lines**
 - let students draw, justify, challenge, or add connections
+
+If you want a facilitator key, you can imagine multiple valid line patterns — but the board version should start with **no lines**.
 
 ---
 
 ## 1) Race and disability are co-constructed through schooling.
+- **Source:** Annamma, Connor, & Ferri (2013)
+- **Location:** reading-grounded phrasing from the discussant question; exact page not confirmed in current repo notes
 
 ```text
-      [Labeling] -------- [Race and disability are co-constructed through schooling.] -------- [Segregation]
-            \                                      |                                                     /
-             \                                     |                                                    /
-              \                               [Discipline]                                              /
-               \                                   |                                                   /
-                \                                  |                                                  /
-                 [Inclusion can still manage difference] -------- [IEPs / 504s] -------- [Students of color]
+                                [Labeling]
+
+ [Inclusion can still manage difference]   [Race and disability are co-constructed through schooling.]   [Segregation]
+
+                     [Discipline]                     [IEPs / 504s]                     [Students of color]
 ```
 
 ---
 
 ## 2) "That's for the special education audience."
+- **Source:** Annamma, Connor, & Ferri (2013)
+- **Location:** quoted in Aaron’s discussant question; exact page not confirmed in current repo notes
 
 ```text
-      [General education] -------- ["That's for the special education audience."] -------- [Special education]
-                \                                   |                                                  /
-                 \                                  |                                                 /
-                  \                         [Well-rounded teacher]                                    /
-                   \                                |                                               /
-                    \                               |                                              /
-                     [Responsibility] -------- [Teacher identity] -------- [Race / gender]
+                           [General education]
+
+      [Responsibility]   ["That's for the special education audience."]   [Special education]
+
+                    [Well-rounded teacher]        [Teacher identity]        [Race / gender]
 ```
 
 ---
 
 ## 3) The affirmative non-tragedy model
+- **Source:** Flynn (2024)
+- **Location:** article title / core frame referenced in Misong’s discussant question
 
 ```text
-      [Disability is not tragedy] -------- [The affirmative non-tragedy model] -------- [Care without pity]
-                     \                                  |                                           /
-                      \                                 |                                          /
-                       \                           [Competence]                                   /
-                        \                              |                                        /
-                         \                             |                                       /
-                          [Risk] -------- [Protection] -------- [Adult assumptions]
+                        [Disability is not tragedy]
+
+             [Risk]   [The affirmative non-tragedy model]   [Care without pity]
+
+                  [Protection]            [Competence]            [Adult assumptions]
 ```
 
 ---
 
 ## 4) Disability is not tragedy.
+- **Source:** Flynn (2024)
+- **Location:** reading-grounded paraphrase of the article’s core claim; exact page not confirmed in current repo notes
 
 ```text
-      [Pity] -------- [Disability is not tragedy.] -------- [Care]
-         \                        |                            /
-          \                       |                           /
-           \                 [Protection]                    /
-            \                    |                         /
-             \                   |                        /
-              [Competence] -------- [Risk] -------- [Support]
+                                  [Pity]
+
+           [Competence]        [Disability is not tragedy.]        [Care]
+
+                    [Risk]               [Protection]               [Support]
 ```
 
 ---
 
 ## 5) Many people come to understand disabilities from what they have seen on television.
+- **Source:** Talusan (2022), Chapter 7
+- **Location:** phrasing from Alyssa’s discussant question based on the reading; exact page not confirmed in current repo notes
 
 ```text
-      [TV / film] -------- [Many people come to understand disabilities from what they have seen on television.] -------- [Media representation]
-             \                                                  |                                                          /
-              \                                                 |                                                         /
-               \                                          [Stereotypes]                                                  /
-                \                                              |                                                       /
-                 \                                             |                                                      /
-                  [Children's views] -------- [Schools / classrooms] -------- [Disability knowledge]
+                               [TV / film]
+
+ [Children's views]   [Many people come to understand disabilities from what they have seen on television.]   [Media representation]
+
+                 [Schools / classrooms]          [Stereotypes]          [Disability knowledge]
 ```
 
 ---
 
 ## 6) "Become more encompassing of diversity and perceived difference."
+- **Source:** Annamma, Connor, & Ferri (2013)
+- **Location:** p. 18
 
 ```text
-      [Curriculum] -------- ["Become more encompassing of diversity and perceived difference."] -------- [DisCrit]
-             \                                        |                                                          /
-              \                                       |                                                         /
-               \                               [Class discussion]                                              /
-                \                                    |                                                       /
-                 \                                   |                                                      /
-                  [Belonging] -------- [Difference is not deficit] -------- [Inclusion]
+                               [Curriculum]
+
+      [Belonging]   ["Become more encompassing of diversity and perceived difference."]   [DisCrit]
+
+               [Class discussion]       [Difference is not deficit]       [Inclusion]
 ```
 
 ---
 
 ## 7) "Teachers struggled with that fine line ... not treating Naomi special ... but also having awareness of the real challenges she faces."
+- **Source:** Talusan (2022)
+- **Location:** p. 87
 
 ```text
-      [Support] -------- ["Teachers struggled with that fine line ..."] -------- [Independence]
-          \                                  |                                        /
-           \                                 |                                       /
-            \                          [Over-helping]                               /
-             \                              |                                    /
-              \                             |                                   /
-               [Real challenges] -------- [Teacher judgment] -------- [Disability awareness]
+                                 [Support]
+
+      [Real challenges]   ["Teachers struggled with that fine line ..."]   [Independence]
+
+                [Over-helping]          [Teacher judgment]          [Disability awareness]
 ```
 
 ---
 
 ## 8) Care, competence, risk, and protection
+- **Source:** Flynn (2024)
+- **Location:** key terms named directly in Misong’s discussant question; exact page not confirmed in current repo notes
 
 ```text
-      [Care] -------- [Care, competence, risk, and protection] -------- [Competence]
-         \                              |                                     /
-          \                             |                                    /
-           \                         [Risk]                                 /
-            \                          |                                  /
-             \                         |                                 /
-              [Protection] -------- [Pity] -------- [Disability is not tragedy]
+                                   [Care]
+
+         [Protection]   [Care, competence, risk, and protection]   [Competence]
+
+                    [Pity]               [Risk]               [Disability is not tragedy]
 ```
 
 ---
