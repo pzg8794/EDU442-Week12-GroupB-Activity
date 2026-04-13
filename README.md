@@ -27,7 +27,7 @@ Welcome, Group B! Below is the full activity plan for our discussion protocol. T
 ## 🔥 Warm-Up: Quote Sort (10 min)
 
 **Instructions:**
-1. Each table receives a set of **6 printed quotes** from the readings (see [`quotes/warm-up-quotes.md`](quotes/warm-up-quotes.md)).
+1. Each table receives a set of **6 printed quotes** from the readings prepared by facilitators.
 2. Sort them into two categories:
    - ✅ *"We agree / This resonates"*
    - 💬 *"We want to push back / This challenges us"*
@@ -47,13 +47,13 @@ Hexagonal Thinking is a visual strategy where key concepts are placed on hexagon
 4. Every connection must be **verbally justified**: *"These two connect because..."*
 5. After 10 minutes, take a photo of your arrangement.
 
-See the student-ready layout file: [`HEXAGON_CONNECTION_MAPS.md`](HEXAGON_CONNECTION_MAPS.md)
+See the student-ready layout file: [`hexagon-cards/connection-maps.md`](hexagon-cards/connection-maps.md)
 
 ---
 
 ## 🗣️ Pair & Share: Discussant Questions (12 min)
 
-See the full question list in [`WEEK12_ACTIVITY_PLAN.md`](WEEK12_ACTIVITY_PLAN.md)
+See the full question list in [`discussant-questions/week12-questions.md`](discussant-questions/week12-questions.md)
 
 **Instructions:**
 1. Everyone reads all 7 questions (2 min).
