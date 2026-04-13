@@ -19,7 +19,7 @@ Welcome, Group B! Below is the full activity plan for our discussion protocol. T
 | 0–5 min | Welcome & framing | Whole group |
 | 5–15 min | Warm-up: Quote Sort | Small groups |
 | 15–30 min | Core Activity: Hexagonal Thinking | Small groups |
-| 30–42 min | Gallery Share-Out | Whole group |
+| 30–42 min | Pair & Share — Discussant Questions | Pairs |
 | 42–50 min | Reflection + Norms check-in | Whole group |
 
 ---
@@ -27,76 +27,71 @@ Welcome, Group B! Below is the full activity plan for our discussion protocol. T
 ## 🔥 Warm-Up: Quote Sort (10 min)
 
 **Instructions:**
-1. Each table receives a set of **6 printed quotes** from the readings.
-2. As a group, sort them into two categories:
+1. Each table receives a set of **6 printed quotes** from the readings (see [`quotes/warm-up-quotes.md`](quotes/warm-up-quotes.md)).
+2. Sort them into two categories:
    - ✅ *"We agree / This resonates"*
    - 💬 *"We want to push back / This challenges us"*
-3. Pick **one quote** from each pile to share with the whole class and explain why.
-
-**Purpose:** Activates prior knowledge, surfaces tension points, and gets everyone talking before the deeper activity.
+3. Pick **one quote from each pile** to share with the whole class and explain why.
 
 ---
 
 ## 🔷 Core Activity: Hexagonal Thinking (15 min)
 
 **What is it?**
-Hexagonal Thinking is a visual strategy where concepts are written on hexagon-shaped cards. Groups arrange and connect the hexagons, explaining *why* two ideas are related where they touch.
+Hexagonal Thinking is a visual strategy where key concepts are placed on hexagon-shaped cards. Groups arrange and connect the hexagons — explaining *why* two ideas are related wherever they touch.
 
 **How to run it:**
-1. Each group gets **8 hexagon cards** (printed or digital) with one concept per card (see list below).
-2. Groups physically arrange and connect the hexagons on a table/whiteboard.
-3. Every connection point must be **verbally justified** — "These two connect because..."
-4. After 10 minutes, groups take a photo of their arrangement.
+1. Each group gets **8 hexagon cards** — one concept per card (see [`hexagon-cards/concepts.md`](hexagon-cards/concepts.md)).
+2. Arrange them so connected concepts are touching.
+3. Every connection must be **verbally justified**: *"These two connect because..."*
+4. After 10 minutes, take a photo of your arrangement.
 
-**Hexagon Concepts (customize to your readings):**
+**The 8 Concepts (all drawn from this week's readings):**
 
-| # | Concept |
-|---|--------|
-| 1 | Equity |
-| 2 | Student Voice |
-| 3 | Power Dynamics |
-| 4 | Curriculum Design |
-| 5 | Teacher Identity |
-| 6 | Community Knowledge |
-| 7 | Assessment |
-| 8 | Co-Created Norms |
+| # | Concept | Reading |
+|---|---------|--------|
+| 1 | DisCrit | Annamma et al. (2013) |
+| 2 | Inclusion (as management) | Annamma et al. (2013) |
+| 3 | Tragedy Model of Disability | Flynn (2024) |
+| 4 | Affirmative Non-Tragedy Model | Flynn (2024) |
+| 5 | Media Representation | Talusan (2022) |
+| 6 | Teacher Identity & Positionality | Annamma et al. (2013) |
+| 7 | Care vs. Competence | Flynn (2024) |
+| 8 | Student Independence | Talusan (2022) |
 
-> 💡 **Facilitator tip:** Encourage groups to debate placements. There's no single correct arrangement — the discussion is the point.
-
----
-
-## 🗣️ Gallery Share-Out (12 min)
-
-1. Each group briefly presents their hexagon arrangement (~2 min each).
-2. They highlight:
-   - Their most **surprising connection**
-   - Their most **debated connection**
-3. Facilitators note recurring themes on the whiteboard.
-
-**Discussion Prompts:**
-- *"Where did your group disagree and why?"*
-- *"What connection did you NOT expect to find in the readings?"*
-- *"How might this connect to your future classroom?"*
+> 💡 **Facilitator tip:** There is no single correct arrangement — the debate *is* the activity.
 
 ---
 
-## 🪞 Reflection + Norms Check-In (8 min)
+## 🗣️ Pair & Share: Discussant Questions (12 min)
 
-**Individual reflection (2 min, silent):**
-Write one sentence: *"After today's reading and discussion, I'm now thinking differently about _______."*
+See the full question list → [`discussant-questions/week12-questions.md`](discussant-questions/week12-questions.md)
 
-**Whole group share (4 min):**
-Popcorn style — anyone who wants to share, share.
+**Instructions:**
+1. Everyone reads all 7 questions (2 min).
+2. Each person picks **1–2 questions** that resonate most.
+3. Find a partner and discuss for **5–7 minutes**.
+4. Share one key insight with the whole group.
 
-**Co-created norms check-in (2 min):**
-Facilitators ask: *"Did we live up to our norms today? What would we do differently?"*
+---
+
+## 🪶 Reflection + Norms Check-In (8 min)
+
+**Individual (2 min, silent):**
+Complete this sentence: *"After today's reading and discussion, I'm now thinking differently about _______."*
+
+**Whole group share (4 min):** Popcorn style.
+
+**Norms check-in (2 min):**
+*"Did we live up to our co-created norms today? What would we do differently?"*
 
 ---
 
 ## 📋 Materials Checklist
 
-- [ ] Printed or digital hexagon cards (8 per group)
-- [ ] Printed quote cards for warm-up (6 per group)
+- [ ] Printed hexagon cards — 8 per group (or digital via FigJam/Jamboard)
+- [ ] Printed quote cards — 6 per group
+- [ ] Discussant questions printed or on a shared screen
 - [ ] Markers + whiteboard or chart paper
 - [ ] Timer visible to the class
 - [ ] Phone/camera to capture hexagon arrangements
@@ -117,7 +112,7 @@ Facilitators ask: *"Did we live up to our norms today? What would we do differen
 ## 📎 Resources
 
 - [Discussant Protocol & Contact List](https://docs.google.com/document/d/1v82yIT1Wl8Ct_XY1ggA-mJ6vfDMZglm_pCIf5Ea6udg/edit?tab=t.0)
-- Hexagonal Thinking overview: [Cult of Pedagogy](https://www.cultofpedagogy.com/hexagonal-thinking/)
+- [Hexagonal Thinking — Cult of Pedagogy](https://www.cultofpedagogy.com/hexagonal-thinking/)
 
 ---
 

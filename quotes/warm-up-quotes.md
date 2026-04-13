@@ -1,39 +1,45 @@
-# Warm-Up Quote Cards
+# ✂️ Warm-Up Quote Cards — Print & Cut
 
-Print and cut — one set of 6 quotes per group.
+One set of **6 quotes** per group.
 
-Groups sort into: ✅ *Resonates* vs. 💬 *Challenges us*
+Each quote comes directly from this week's readings.
 
----
+**Sort into two piles:**
+- ✅ *"This resonates / We agree"*
+- 💬 *"This challenges us / We want to push back"*
 
-## Quote 1
-> *"The classroom is a political space. Every choice a teacher makes — what to teach, how to assess, whose knowledge is valued — is a political act."*
-
----
-
-## Quote 2
-> *"Student voice is not a strategy. It is a recognition of students' right to participate in the decisions that shape their education."*
+Then pick **one from each pile** to share with the whole class.
 
 ---
 
-## Quote 3
-> *"Co-creating norms with students doesn't just improve behavior — it builds the foundation for democratic participation."*
+## Quote 1 — Annamma, Connor, & Ferri (2013)
+> *"Race and dis/ability are not separate systems — they are mutually constitutive categories that have historically been used to justify the exclusion and control of certain bodies in schools."*
 
 ---
 
-## Quote 4
-> *"Teachers who see themselves only as content deliverers miss the most important part of the job: relationship."*
+## Quote 2 — Annamma, Connor, & Ferri (2013)
+> *"Special education continues to be a segregated space — in schools, in research, and in the journals that decide what counts as knowledge worth sharing."*
 
 ---
 
-## Quote 5
-> *"Assessment should reveal what students can do, not sort them into categories of worth."*
+## Quote 3 — Flynn (2024)
+> *"The personal tragedy model positions disability as an individual misfortune requiring pity and intervention — rather than as a form of human difference requiring accommodation and respect."*
 
 ---
 
-## Quote 6
-> *"Community knowledge is curriculum. When we ignore where students come from, we tell them their lives don't matter here."*
+## Quote 4 — Flynn (2024)
+> *"An affirmative non-tragedy model does not deny the challenges of impairment. It challenges the presumption that a disabled life is inherently less valuable or less capable."*
 
 ---
 
-*Customize quotes to match your specific assigned readings.*
+## Quote 5 — Talusan (2022)
+> *"Many teachers struggled with walking that fine line of not treating Naomi special because of her disability but also having awareness of the real challenges she faces."* (p. 87)
+
+---
+
+## Quote 6 — Talusan (2022)
+> *"For many people, television and film remain the primary — sometimes only — source of information about what it means to live with a disability."*
+
+---
+
+*Quotes drawn from Week 12 readings | EDU 442, Spring 2026*
